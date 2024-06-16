@@ -2,18 +2,17 @@
 title: Protocol Audit Report
 author: Aditya Mishra
 date: March 7, 2023
-header-includes:
-  - \usepackage{titling}
-  - \usepackage{graphicx}
 ---
 
 
 <!-- Your report starts here! -->
+# TSwap Audit Report
 
 Lead Auditors: 
 - Aditya Mishra
 
 # Table of Contents
+- [TSwap Audit Report](#tswap-audit-report)
 - [Table of Contents](#table-of-contents)
 - [Protocol Summary](#protocol-summary)
 - [Disclaimer](#disclaimer)
